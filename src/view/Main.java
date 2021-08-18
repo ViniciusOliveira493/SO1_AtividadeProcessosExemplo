@@ -2,7 +2,7 @@ package view;
 
 import controller.ProcessosController;
 
-public class Principal {
+public class Main {
 	public static void main(String[] args) {
 		ProcessosController pc = new ProcessosController();
 		
